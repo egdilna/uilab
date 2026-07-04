@@ -1,17 +1,25 @@
 {
   "title": "UIlab",
-  "tagline": "Můj asi stý pokus o web",
+  "tagline": "Laboratoř umělé inteligence",
   "language": "cs",
-  "color": "gold",
+  "color": "teal",
   "copyright": {
-    "name": "Michal Rada",
-    "url": "https://github.com/michalradacz",
+    "name": "UIlab",
+    "url": "https://www.uilab.cz",
     "year": 2026
   },
   "menu_links": [
     {
-      "label": "YT",
-      "url": "https://youtube.com/c/michalrada"
+      "label": "Stará wiki",
+      "url": "https://egdwiki.info/uilab:start"
+    },
+    {
+      "label": "Github",
+      "url": "HTTPS://github.com/egdilna/uilab"
+    },
+    {
+      "label": "Napište nám",
+      "url": "Https://github.com/egdilna/uilab/discussions"
     }
   ],
   "footer_links": [
