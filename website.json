@@ -25,7 +25,15 @@
   "footer_links": [
     {
       "label": "Homepage",
-      "url": "#aktuality"
+      "url": "#homepage"
+    },
+    {
+      "label": "Editor",
+      "url": "https://www.michalrada.cz/md2web/editor/?owner=Egdilna&repo=Uilab"
+    },
+    {
+      "label": "Redakční systém",
+      "url": "HTTPS://michalrada.cz/md2web"
     }
   ]
 }
